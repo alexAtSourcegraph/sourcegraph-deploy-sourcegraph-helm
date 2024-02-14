@@ -41,3 +41,4 @@ data:
 
 The Secret names should be configured in your override file in the `connection.existingSecret` key for each Redis. Example: [override-secret.yaml](./override-secret.yaml)
 
+testing to see if this works for a branch name that previously existed

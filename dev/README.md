@@ -5,3 +5,4 @@
 From the root of the repo
 
 helm template test ./charts/sourcegraph -f ci/override.yaml | kubectl apply -f -
+testing to see if this works for a branch name that previously existed
